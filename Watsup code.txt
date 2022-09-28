@@ -3,11 +3,10 @@ This is Watsup code
 Author : Yoganantham 
 
 1. Profile Page code
-
 2. Chat screen code
-
 3. Last seen code 
-
 4. Attachments (Images, audio, video) code
-
 5. Hiding the last seen
+6. Adding the audio call feature
+7. Adding the video call feature
+
